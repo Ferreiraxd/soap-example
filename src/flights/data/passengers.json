@@ -1,0 +1,12 @@
+{
+    "passengers":[
+        {
+            "name": "Matías Hernandez",
+            "rut" : "11.111.11-1" 
+        },
+        {
+            "name": "Felipe Letelier",
+            "rut" : "11.111.11-1"
+        }
+    ]
+}
